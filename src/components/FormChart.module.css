@@ -1,0 +1,89 @@
+.container1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-xl);
+  background-color: var(--neutral-colors-white);
+  box-shadow: var(--general-shadows-shadow-01);
+  width: 332px;
+  height: 225.2px;
+}
+.arrowIcon1 {
+  position: absolute;
+  height: 63.13%;
+  width: 19.84%;
+  top: 18.13%;
+  right: 0%;
+  bottom: 18.75%;
+  left: 80.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.number {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 16px;
+  font-weight: 500;
+}
+.growthPercentage {
+  position: absolute;
+  height: 22.22%;
+  width: 49.73%;
+  top: 77.78%;
+  right: 50.07%;
+  bottom: 0%;
+  left: 0.2%;
+}
+.amount {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: var(--special-headings-display-3-size);
+  line-height: 52px;
+  color: var(--neutral-colors-black);
+}
+.growthInfo {
+  position: absolute;
+  height: 31.97%;
+  width: 44.58%;
+  top: 36.81%;
+  right: 33.13%;
+  bottom: 31.22%;
+  left: 22.29%;
+}
+.cardTitle {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 24px;
+}
+.cardInfo1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 89px;
+  height: 24px;
+}
+.cardInfo {
+  position: absolute;
+  top: 31.9px;
+  left: 33px;
+  width: 89px;
+  height: 24px;
+  font-size: var(--headings-h5-size);
+  color: var(--neutral-colors-black);
+}
+.chart4 {
+  position: absolute;
+  top: 688.1px;
+  left: 324px;
+  width: 332px;
+  height: 225.2px;
+  text-align: left;
+  font-size: var(--text-single-uppercase-200-regular-size);
+  color: var(--system-colors-green-400);
+  font-family: var(--text-single-300-bold);
+}
