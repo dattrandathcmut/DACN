@@ -13,12 +13,7 @@ const WelcomeContainer1 = () => {
     navigate("/desktop-23");
   }, [navigate]);
 
-<<<<<<< HEAD
-  const onGroupContainer2Click = useCallback(() => {
-=======
   const onGroupButtonClick = useCallback(() => {
-
->>>>>>> Incoming
     navigate("/frame-35");
   }, [navigate]);
 
@@ -36,22 +31,16 @@ const WelcomeContainer1 = () => {
       </div>
       <div className={styles.login}>Login</div>
       <GroupComponent2
-        enterYourEmailAddress="Enter your email address"
-        examplegmailcom="example@gmail.com"
         groupDivPosition="absolute"
         groupDivTop="199px"
         groupDivLeft="63px"
         groupDivBorderRadius="15px"
-        rectangleDivBorder="1px solid var(--color-dodgerblue)"
       />
       <GroupComponent2
-        enterYourEmailAddress="Enter your Password"
-        examplegmailcom="Enter your password"
         groupDivPosition="absolute"
         groupDivTop="309px"
         groupDivLeft="63px"
         groupDivBorderRadius="15px"
-        rectangleDivBorder="1px solid var(--color-darkgray)"
       />
       <div
         className={styles.forgotPassword}
@@ -59,20 +48,10 @@ const WelcomeContainer1 = () => {
       >
         Forgot Password
       </div>
-<<<<<<< HEAD
-      <div className={styles.rectangleGroup} onClick={onGroupContainer2Click}>
-=======
       <button className={styles.rectangleGroup} onClick={onGroupButtonClick}>
-
->>>>>>> Incoming
         <div className={styles.groupItem} />
         <div className={styles.signIn}>Sign in</div>
-<<<<<<< HEAD
-      </div>
-=======
       </button>
-
->>>>>>> Incoming
     </div>
   );
 };

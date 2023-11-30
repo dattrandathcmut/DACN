@@ -11,7 +11,6 @@ const Desktop23 = () => {
 
   const onBackTextClick = useCallback(() => {
     navigate("/desktop-22");
-
   }, [navigate]);
 
   return (

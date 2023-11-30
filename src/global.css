@@ -1,20 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
-<<<<<<< HEAD
-=======
 @import url("https://fonts.googleapis.com/css2?family=Spartan:wght@400;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap");
-
->>>>>>> Incoming
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@500;700&display=swap");
-<<<<<<< HEAD
-=======
 @import url("https://fonts.googleapis.com/css2?family=Actor:wght@400&display=swap");
-
->>>>>>> Incoming
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@600&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@400;600;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Actor:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap");
 body {
   margin: 0;
   line-height: normal;
@@ -23,136 +12,64 @@ body {
   /* fonts */
   --font-poppins: Poppins;
   --font-lato: Lato;
-<<<<<<< HEAD
-  --font-roboto: Roboto;
-=======
   --text-single-300-bold: Inter;
-
->>>>>>> Incoming
   --font-spartan: Spartan;
-<<<<<<< HEAD
-=======
   --font-actor: Actor;
-
->>>>>>> Incoming
   --font-inherit: inherit;
-<<<<<<< HEAD
-  --font-actor: Actor;
-  --text-single-300-bold: Inter;
-=======
   --font-roboto: Roboto;
-
->>>>>>> Incoming
 
   /* font sizes */
   --text-single-uppercase-200-regular-size: 14px;
   --text-single-300-bold-size: 16px;
   --font-size-3xs: 10px;
-<<<<<<< HEAD
-  --font-size-31xl: 50px;
-  --font-size-smi: 13px;
-  --font-size-26xl: 45px;
-=======
   --font-size-lg-1: 18.1px;
   --headings-h5-size: 18px;
   --special-headings-display-3-size: 44px;
   --font-size-13xl: 32px;
   --font-size-8xl: 27px;
-
->>>>>>> Incoming
   --font-size-16xl: 35px;
-  --font-size-lg-1: 18.1px;
-  --font-size-5xl: 24px;
   --font-size-xl: 20px;
-<<<<<<< HEAD
-  --font-size-8xl: 27px;
-  --font-size-13xl: 32px;
-=======
   --font-size-6xl: 25px;
   --font-size-3xl: 22px;
-
->>>>>>> Incoming
   --font-size-mid-5: 17.5px;
-<<<<<<< HEAD
-=======
   --font-size-5xl: 24px;
-
->>>>>>> Incoming
   --font-size-11xl: 30px;
-<<<<<<< HEAD
-  --font-size-6xl: 25px;
-  --font-size-3xl: 22px;
-  --headings-h5-size: 18px;
-  --special-headings-display-3-size: 44px;
-=======
   --font-size-26xl: 45px;
   --font-size-smi: 13px;
   --font-size-31xl: 50px;
-
->>>>>>> Incoming
 
   /* Colors */
   --color-gray-100: #8d8d8d;
   --color-gray-200: #808080;
   --neutral-colors-black: #1e1c39;
-<<<<<<< HEAD
-=======
   --color-gray-300: rgba(255, 255, 255, 0.82);
   --color-gray-400: rgba(255, 255, 255, 0.75);
-
->>>>>>> Incoming
   --color-gray-500: rgba(0, 0, 0, 0.1);
-  --color-gray-400: rgba(255, 255, 255, 0.75);
-  --color-gray-300: rgba(255, 255, 255, 0.82);
   --neutral-colors-white: #fff;
-<<<<<<< HEAD
-=======
   --color-darkgray: #adadad;
   --color-black: #000;
-
->>>>>>> Incoming
   --color-dodgerblue: #4285f4;
-  --color-black: #000;
-  --color-darkgray: #adadad;
-  --color-green: #008000;
-  --color-olivedrab-100: #779341;
   --color-darkslategray-100: #1b4332;
   --color-darkslategray-200: #263238;
   --color-darkslategray-300: rgba(27, 67, 50, 0.5);
-  --color-darkslateblue: #111540;
-  --color-mintcream: rgba(242, 248, 242, 0.7);
   --neutral-colors-text-gray: #615e83;
   --neutral-colors-500: #e5e5ef;
   --system-colors-green-400: #04ce00;
-<<<<<<< HEAD
-=======
   --color-green: #008000;
   --color-mintcream: rgba(242, 248, 242, 0.7);
   --color-olivedrab-100: #779341;
   --color-darkslateblue: #111540;
 
->>>>>>> Incoming
-
   /* Gaps */
-<<<<<<< HEAD
-=======
   --gap-8xs: 5px;
-
->>>>>>> Incoming
   --gap-3xs: 10px;
   --gap-mini: 15px;
-  --gap-8xs: 5px;
   --gap-10xs: 3px;
 
   /* Paddings */
-<<<<<<< HEAD
-=======
   --padding-8xs: 5px;
-
->>>>>>> Incoming
   --padding-8xl: 27px;
   --padding-3xs: 10px;
-  --padding-8xs: 5px;
   --padding-smi: 13px;
   --padding-6xl-1: 25.1px;
   --padding-4xl: 23px;
@@ -160,22 +77,11 @@ body {
   /* border radiuses */
   --br-4xs: 9px;
   --br-mini: 15px;
-<<<<<<< HEAD
-=======
   --br-xl: 20px;
   --br-31xl: 50px;
-
->>>>>>> Incoming
   --br-11xl: 30px;
-<<<<<<< HEAD
-=======
   --br-3xs: 10px;
-
->>>>>>> Incoming
   --br-sm: 14px;
-  --br-31xl: 50px;
-  --br-xl: 20px;
-  --br-3xs: 10px;
 
   /* Effects */
   --general-shadows-shadow-01: 0px 2px 6px rgba(13, 10, 44, 0.08);

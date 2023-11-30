@@ -41,30 +41,17 @@ const WelcomeContainer = () => {
         rectangleDivBorder="1px solid var(--color-dodgerblue)"
       />
       <GroupComponent2
-        enterYourEmailAddress="Enter your Password"
-        examplegmailcom="Enter your password"
         groupDivPosition="absolute"
         groupDivTop="497px"
         groupDivLeft="63px"
         groupDivBorderRadius="15px"
-        rectangleDivBorder="1px solid var(--color-darkgray)"
       />
-<<<<<<< HEAD
-      <div className={styles.rectangleGroup}>
-=======
       <button className={styles.rectangleGroup}>
-
->>>>>>> Incoming
         <div className={styles.groupItem} />
         <div className={styles.register1} onClick={onRegisterText1Click}>
           Register
         </div>
-<<<<<<< HEAD
-      </div>
-=======
       </button>
-
->>>>>>> Incoming
     </div>
   );
 };

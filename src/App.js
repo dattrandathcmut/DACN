@@ -13,17 +13,7 @@ import Frame5 from "./pages/Frame5";
 import Group from "./pages/Group";
 import Group1 from "./pages/Group1";
 import Desktop23 from "./pages/Desktop23";
-
 import Desktop22 from "./pages/Desktop22";
-import Desktop23 from "./pages/Desktop23";
-import Group1 from "./pages/Group1";
-import Group from "./pages/Group";
-import Frame5 from "./pages/Frame5";
-import Frame4 from "./pages/Frame4";
-import Frame3 from "./pages/Frame3";
-import Frame2 from "./pages/Frame2";
-import Frame1 from "./pages/Frame1";
-import Frame from "./pages/Frame";
 import { useEffect } from "react";
 
 function App() {
@@ -47,47 +37,38 @@ function App() {
         metaDescription = "";
         break;
       case "/frame-38":
-
         title = "";
         metaDescription = "";
         break;
       case "/frame-36":
+        title = "";
         metaDescription = "";
         break;
-      case "/group-2611":
-=======
       case "/frame-35":
-
         title = "";
         metaDescription = "";
         break;
       case "/frame-34":
-
         title = "";
         metaDescription = "";
         break;
       case "/frame-33":
-
         title = "";
         metaDescription = "";
         break;
       case "/group-2611":
-
         title = "";
         metaDescription = "";
         break;
       case "/group-2613":
-
         title = "";
         metaDescription = "";
         break;
       case "/desktop-23":
-
         title = "";
         metaDescription = "";
         break;
       case "/desktop-22":
-
         title = "";
         metaDescription = "";
         break;
@@ -117,10 +98,8 @@ function App() {
       <Route path="/frame-33" element={<Frame5 />} />
       <Route path="/group-2611" element={<Group />} />
       <Route path="/group-2613" element={<Group1 />} />
-
       <Route path="/desktop-23" element={<Desktop23 />} />
       <Route path="/desktop-22" element={<Desktop22 />} />
-
     </Routes>
   );
 }

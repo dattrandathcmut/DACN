@@ -17,25 +17,17 @@
   height: 356px;
 }
 .groupItem {
-<<<<<<< HEAD
-=======
   cursor: pointer;
   border: 1px solid var(--color-darkslateblue);
   padding: 0;
   background-color: var(--neutral-colors-white);
-
->>>>>>> Incoming
   position: absolute;
   top: 0px;
   left: 0px;
   border-radius: var(--br-xl);
-  background-color: var(--neutral-colors-white);
-  border: 1px solid var(--color-darkslateblue);
   box-sizing: border-box;
   width: 516px;
   height: 356px;
-<<<<<<< HEAD
-=======
 }
 .rectangleContainer {
   position: absolute;
@@ -43,33 +35,22 @@
   left: 0px;
   width: 516px;
   height: 356px;
-
->>>>>>> Incoming
   cursor: pointer;
 }
 .groupInner {
-<<<<<<< HEAD
-=======
   cursor: pointer;
   border: none;
   padding: 0;
   background-color: transparent;
-
->>>>>>> Incoming
   position: absolute;
   top: 0px;
   left: 0px;
   border-radius: var(--br-mini) 0px 0px var(--br-mini);
   width: 243px;
   height: 356px;
-<<<<<<< HEAD
-  object-fit: cover;
-=======
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
-
->>>>>>> Incoming
 }
 .viewFullDetails1 {
   position: absolute;
@@ -80,11 +61,7 @@
   display: inline-block;
   width: 153px;
   height: 33.9px;
-<<<<<<< HEAD
-=======
   cursor: pointer;
-
->>>>>>> Incoming
 }
 .nngTri11 {
   position: absolute;
@@ -129,12 +106,7 @@
 .groupParent {
   position: absolute;
   top: 272px;
-<<<<<<< HEAD
-  left: 592px;
-=======
   left: 1096.5px;
-
->>>>>>> Incoming
   width: 516px;
   height: 356px;
   text-align: left;

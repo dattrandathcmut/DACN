@@ -2,7 +2,6 @@
   position: absolute;
   top: 0px;
   left: 7px;
-
   background-color: var(--neutral-colors-white);
   width: 1440px;
   height: 159px;
@@ -19,7 +18,6 @@
   position: absolute;
   top: 124px;
   left: 4px;
-
   width: 1440px;
   height: 897px;
 }
@@ -27,7 +25,6 @@
   position: absolute;
   top: 412px;
   left: 1126px;
-
   font-size: var(--font-size-13xl);
   line-height: 177%;
   color: var(--neutral-colors-white);
@@ -37,7 +34,6 @@
   top: 120px;
   left: 5px;
   width: 1439px;
-
   height: 7px;
   object-fit: cover;
 }
@@ -46,36 +42,29 @@
   border: none;
   padding: 0;
   background-color: transparent;
-
   position: absolute;
   top: 259px;
   left: 4px;
-
   font-size: var(--font-size-8xl);
   line-height: 177%;
   font-family: var(--font-spartan);
-
   color: var(--neutral-colors-white);
   text-align: left;
   display: inline-block;
   width: 299px;
   height: 60px;
-
 }
 .nngSutD1 {
   cursor: pointer;
   border: none;
   padding: 0;
   background-color: transparent;
-
   position: absolute;
   top: 483px;
   left: 4px;
-
   font-size: var(--font-size-8xl);
   line-height: 177%;
   font-family: var(--font-spartan);
-
   color: var(--neutral-colors-white);
   text-align: left;
   display: inline-block;
@@ -83,55 +72,43 @@
   height: 60px;
 }
 .thngK1 {
-
   cursor: pointer;
   border: none;
   padding: 0;
   background-color: transparent;
-
   position: absolute;
   top: 371px;
   left: 7px;
-
   font-size: var(--font-size-8xl);
   line-height: 177%;
   font-family: var(--font-spartan);
-
   color: var(--neutral-colors-white);
   text-align: left;
-
   display: inline-block;
   width: 296px;
   height: 60px;
-
 }
 .giNng1 {
   cursor: pointer;
   border: none;
   padding: 0;
   background-color: transparent;
-
   position: absolute;
   top: 595px;
   left: 4px;
-
   font-size: var(--font-size-8xl);
   line-height: 177%;
   font-family: var(--font-spartan);
-
   color: var(--neutral-colors-white);
   text-align: left;
-
   display: inline-block;
   width: 299px;
   height: 60px;
-
 }
 .rectangleDiv {
   position: absolute;
   top: 128px;
   left: 311px;
-
   background-color: var(--color-mintcream);
   width: 1133px;
   height: 893px;
@@ -147,7 +124,6 @@
   mix-blend-mode: lighten;
 }
 .vectorIcon4 {
-
   position: absolute;
   height: 4.17%;
   width: 78.87%;
@@ -211,21 +187,17 @@
 }
 .alignJustify {
   position: absolute;
-
   top: 60px;
   left: 1355px;
-
   width: 53px;
   height: 48px;
   overflow: hidden;
   cursor: pointer;
-
 }
 .nngTri11 {
   position: absolute;
   top: 159px;
   left: 328px;
-
   font-size: var(--font-size-13xl);
   line-height: 177%;
   color: var(--color-green);
@@ -238,7 +210,6 @@
   position: absolute;
   top: 249px;
   left: 561px;
-
   line-height: 177%;
   color: var(--color-darkslategray-100);
 }
@@ -246,7 +217,6 @@
   position: absolute;
   top: 244px;
   left: 317px;
-
   border-radius: var(--br-11xl);
   background-color: var(--neutral-colors-white);
   border: 3px solid var(--color-darkslategray-300);
@@ -258,7 +228,6 @@
   position: absolute;
   top: 263px;
   left: 346px;
-
   font-size: var(--font-size-11xl);
   line-height: 177%;
   display: inline-block;
@@ -269,7 +238,6 @@
   position: absolute;
   top: 323px;
   left: 344px;
-
   font-size: var(--font-size-5xl);
   line-height: 177%;
   display: inline-block;
@@ -280,7 +248,6 @@
   position: absolute;
   top: 323px;
   left: 539px;
-
   font-size: var(--font-size-5xl);
   line-height: 177%;
   display: inline-block;
@@ -291,7 +258,6 @@
   position: absolute;
   top: 399px;
   left: 380px;
-
   line-height: 177%;
   display: inline-block;
   width: 213px;
@@ -301,7 +267,6 @@
   position: absolute;
   top: 380.5px;
   left: 316.5px;
-
   border-top: 1px solid var(--color-gray-500);
   box-sizing: border-box;
   width: 1098px;
@@ -311,7 +276,6 @@
   position: absolute;
   top: 327px;
   left: 893px;
-
   font-size: var(--font-size-5xl);
   line-height: 177%;
   display: inline-block;
@@ -322,7 +286,6 @@
   position: absolute;
   top: 390px;
   left: 622px;
-
   line-height: 177%;
   display: inline-block;
   width: 105px;
@@ -332,7 +295,6 @@
   position: absolute;
   top: 399px;
   left: 926px;
-
   line-height: 177%;
   display: inline-block;
   width: 105px;
@@ -342,7 +304,6 @@
   position: absolute;
   top: 739px;
   left: 1122px;
-
   line-height: 177%;
   color: var(--color-darkslategray-100);
 }
@@ -350,7 +311,6 @@
   position: absolute;
   top: 738px;
   left: 561px;
-
   line-height: 177%;
   color: var(--color-darkslategray-100);
 }
@@ -358,7 +318,6 @@
   position: absolute;
   top: 733px;
   left: 317px;
-
   border-radius: var(--br-11xl);
   background-color: var(--neutral-colors-white);
   border: 3px solid var(--color-darkslategray-300);
@@ -370,7 +329,6 @@
   position: absolute;
   top: 752px;
   left: 346px;
-
   font-size: var(--font-size-11xl);
   line-height: 177%;
   display: inline-block;
@@ -381,7 +339,6 @@
   position: absolute;
   top: 812px;
   left: 344px;
-
   font-size: var(--font-size-5xl);
   line-height: 177%;
   display: inline-block;
@@ -392,7 +349,6 @@
   position: absolute;
   top: 812px;
   left: 539px;
-
   font-size: var(--font-size-5xl);
   line-height: 177%;
   display: inline-block;
@@ -403,7 +359,6 @@
   position: absolute;
   top: 888px;
   left: 380px;
-
   line-height: 177%;
   display: inline-block;
   width: 213px;
@@ -413,7 +368,6 @@
   position: absolute;
   top: 869.5px;
   left: 316.5px;
-
   border-top: 1px solid var(--color-gray-500);
   box-sizing: border-box;
   width: 1098px;
@@ -423,7 +377,6 @@
   position: absolute;
   top: 816px;
   left: 893px;
-
   font-size: var(--font-size-5xl);
   line-height: 177%;
   display: inline-block;
@@ -434,7 +387,6 @@
   position: absolute;
   top: 816px;
   left: 1210px;
-
   font-size: var(--font-size-5xl);
   line-height: 177%;
   display: inline-block;
@@ -445,7 +397,6 @@
   position: absolute;
   top: 879px;
   left: 622px;
-
   line-height: 177%;
   display: inline-block;
   width: 105px;
@@ -455,7 +406,6 @@
   position: absolute;
   top: 888px;
   left: 926px;
-
   line-height: 177%;
   display: inline-block;
   width: 105px;
@@ -467,21 +417,18 @@
   left: 0px;
   width: 1449px;
   height: 1023px;
-
   color: var(--color-darkslategray-200);
 }
 .text16 {
   position: absolute;
   top: 493px;
   left: 1122px;
-
   line-height: 177%;
 }
 .text17 {
   position: absolute;
   top: 492px;
   left: 561px;
-
   line-height: 177%;
 }
 .groupParent2 {
@@ -490,7 +437,6 @@
   left: 0px;
   width: 1449px;
   height: 1023px;
-
   font-size: var(--font-size-xl);
   color: var(--color-darkslategray-100);
 }
@@ -498,7 +444,6 @@
   position: absolute;
   top: 487px;
   left: 317px;
-
   border-radius: var(--br-11xl);
   background-color: var(--neutral-colors-white);
   border: 3px solid var(--color-darkslategray-300);
@@ -510,7 +455,6 @@
   position: absolute;
   top: 506px;
   left: 346px;
-
   font-size: var(--font-size-11xl);
   line-height: 177%;
   display: inline-block;
@@ -521,7 +465,6 @@
   position: absolute;
   top: 566px;
   left: 344px;
-
   line-height: 177%;
   display: inline-block;
   width: 178px;
@@ -531,7 +474,6 @@
   position: absolute;
   top: 566px;
   left: 539px;
-
   line-height: 177%;
   display: inline-block;
   width: 255px;
@@ -541,7 +483,6 @@
   position: absolute;
   top: 642px;
   left: 380px;
-
   font-size: var(--font-size-xl);
   line-height: 177%;
   display: inline-block;
@@ -552,7 +493,6 @@
   position: absolute;
   top: 623.5px;
   left: 316.5px;
-
   border-top: 1px solid var(--color-gray-500);
   box-sizing: border-box;
   width: 1098px;
@@ -562,7 +502,6 @@
   position: absolute;
   top: 327px;
   left: 1210px;
-
   line-height: 177%;
   display: inline-block;
   width: 179px;
@@ -571,12 +510,10 @@
 .back {
   position: relative;
   font-size: 18.06px;
-
   font-weight: 500;
   font-family: var(--font-lato);
   color: var(--color-darkslategray-200);
   text-align: left;
-
   cursor: pointer;
 }
 .backWrapper {
@@ -584,23 +521,17 @@
   border: 1px solid var(--color-darkslategray-200);
   padding: 13.046907424926758px 25.090206146240234px;
   background-color: transparent;
-
   position: absolute;
   top: 28px;
   left: 46px;
-
   border-radius: var(--br-mini);
-  border: 1px solid var(--color-darkslategray-200);
   box-sizing: border-box;
   width: 142.5px;
   height: 64.2px;
   display: flex;
   flex-direction: row;
-  padding: 13.046907424926758px 25.090206146240234px;
   align-items: center;
   justify-content: center;
-  font-size: 18.06px;
-  font-family: var(--font-lato);
 }
 .groupParent1 {
   position: absolute;
@@ -609,12 +540,10 @@
   width: 1449px;
   height: 1023px;
 }
-
 .mT2 {
   position: absolute;
   top: 570px;
   left: 893px;
-
   line-height: 177%;
   display: inline-block;
   width: 138px;
@@ -624,7 +553,6 @@
   position: absolute;
   top: 570px;
   left: 1210px;
-
   line-height: 177%;
   display: inline-block;
   width: 179px;
@@ -634,7 +562,6 @@
   position: absolute;
   top: 633px;
   left: 622px;
-
   font-size: var(--font-size-xl);
   line-height: 177%;
   display: inline-block;
@@ -645,7 +572,6 @@
   position: absolute;
   top: 642px;
   left: 926px;
-
   font-size: var(--font-size-xl);
   line-height: 177%;
   display: inline-block;
@@ -658,14 +584,12 @@
   left: -4px;
   width: 1449px;
   height: 1023px;
-
 }
 .groupParent {
   position: relative;
   background-color: var(--neutral-colors-white);
   width: 100%;
   height: 1024px;
-
   overflow: hidden;
   text-align: left;
   font-size: var(--font-size-5xl);

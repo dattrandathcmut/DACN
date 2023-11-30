@@ -58,12 +58,9 @@ const Frame3 = () => {
                 alt=""
                 src="/undefined6.png"
               />
-
             </div>
             <Container />
-
           </div>
-          <Container />
         </div>
       </div>
     </div>

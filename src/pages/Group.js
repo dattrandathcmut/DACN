@@ -13,12 +13,7 @@ const Group = () => {
                 <div className={styles.rectangleWrapper}>
                   <div className={styles.groupInner} />
                 </div>
-<<<<<<< HEAD
-                <UserContainer linkLeft="1px" />
-=======
                 <UserContainer />
-
->>>>>>> Incoming
                 <b className={styles.text1} />
                 <img className={styles.lineIcon} alt="" src="/line-16.png" />
                 <div className={styles.dashboard}>Dashboard</div>

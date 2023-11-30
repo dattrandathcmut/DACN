@@ -59,48 +59,27 @@
   position: absolute;
   top: 15px;
   left: 91px;
-<<<<<<< HEAD
-=======
   font-size: var(--text-single-300-bold-size);
-
->>>>>>> Incoming
   font-weight: 500;
-<<<<<<< HEAD
-=======
   font-family: var(--font-poppins);
   color: var(--neutral-colors-white);
   text-align: left;
-
->>>>>>> Incoming
 }
 .rectangleGroup {
-<<<<<<< HEAD
-=======
   cursor: pointer;
   border: none;
   padding: 0;
   background-color: transparent;
-
->>>>>>> Incoming
   position: absolute;
   top: 454px;
   left: 175px;
   width: 236px;
   height: 54px;
-  cursor: pointer;
-  font-size: var(--text-single-300-bold-size);
-  color: var(--neutral-colors-white);
 }
 .rectangleParent {
   position: absolute;
-<<<<<<< HEAD
-  top: 249px;
-  left: 459px;
-=======
   top: 252px;
   left: 463px;
-
->>>>>>> Incoming
   width: 572px;
   height: 579px;
   text-align: left;
