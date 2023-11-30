@@ -10,7 +10,12 @@ const Desktop23 = () => {
   }, [navigate]);
 
   const onBackTextClick = useCallback(() => {
+<<<<<<< HEAD
     navigate("/");
+=======
+    navigate("/desktop-22");
+
+>>>>>>> Incoming
   }, [navigate]);
 
   return (

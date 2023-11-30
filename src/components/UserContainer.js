@@ -25,7 +25,12 @@ const UserContainer = ({ linkLeft }) => {
         sideBarTop="0px"
         sideBarLeft="0px"
         sideBarBorderRadius="0px var(--br-31xl) 0px 0px"
+<<<<<<< HEAD
         rectangleDivBackgroundColor="#1b4332"
+=======
+        rectangleDivBackgroundColor="1px solid #1b4332"
+
+>>>>>>> Incoming
       />
     </div>
   );

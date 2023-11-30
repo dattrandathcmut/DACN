@@ -19,10 +19,30 @@
 }
 .back {
   position: relative;
+<<<<<<< HEAD
+=======
+  font-size: 18.06px;
+
+>>>>>>> Incoming
   font-weight: 500;
+<<<<<<< HEAD
+=======
+  font-family: var(--font-lato);
+  color: var(--color-darkslategray-200);
+  text-align: left;
+
+>>>>>>> Incoming
   cursor: pointer;
 }
 .backWrapper {
+<<<<<<< HEAD
+=======
+  cursor: pointer;
+  border: 1px solid var(--color-darkslategray-200);
+  padding: 13.046907424926758px 25.090206146240234px;
+  background-color: transparent;
+
+>>>>>>> Incoming
   position: absolute;
   top: 42px;
   left: 46px;

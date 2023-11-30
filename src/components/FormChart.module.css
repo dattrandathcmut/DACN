@@ -11,11 +11,23 @@
 .arrowIcon1 {
   position: absolute;
   height: 63.13%;
+<<<<<<< HEAD
   width: 19.84%;
   top: 18.13%;
+=======
+  width: 20.28%;
+  top: 33.75%;
+
+>>>>>>> Incoming
   right: 0%;
+<<<<<<< HEAD
   bottom: 18.75%;
   left: 80.16%;
+=======
+  bottom: 3.13%;
+  left: 79.72%;
+
+>>>>>>> Incoming
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
@@ -31,9 +43,19 @@
 .growthPercentage {
   position: absolute;
   height: 22.22%;
+<<<<<<< HEAD
   width: 49.73%;
+=======
+  width: 48.65%;
+
+>>>>>>> Incoming
   top: 77.78%;
+<<<<<<< HEAD
   right: 50.07%;
+=======
+  right: 51.15%;
+
+>>>>>>> Incoming
   bottom: 0%;
   left: 0.2%;
 }
@@ -74,11 +96,21 @@
   width: 89px;
   height: 24px;
   font-size: var(--headings-h5-size);
+<<<<<<< HEAD
+=======
+  line-height: 24px;
+
+>>>>>>> Incoming
   color: var(--neutral-colors-black);
 }
 .chart4 {
   position: absolute;
+<<<<<<< HEAD
   top: 688.1px;
+=======
+  top: 679.1px;
+
+>>>>>>> Incoming
   left: 324px;
   width: 332px;
   height: 225.2px;

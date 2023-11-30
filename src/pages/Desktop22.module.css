@@ -35,6 +35,11 @@
   height: 105px;
 }
 .desktop221 {
+<<<<<<< HEAD
+=======
+  text-decoration: none;
+
+>>>>>>> Incoming
   position: relative;
   background-color: var(--neutral-colors-white);
   width: 100%;

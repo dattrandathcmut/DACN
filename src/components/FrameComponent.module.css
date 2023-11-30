@@ -1,0 +1,43 @@
+.thmNngTri1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 60px;
+  left: 0px;
+  font-size: var(--font-size-8xl);
+  line-height: 177%;
+  font-family: var(--font-spartan);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 534px;
+  height: 70px;
+}
+.saNngTri1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 252px;
+  left: 0px;
+  font-size: var(--font-size-8xl);
+  line-height: 177%;
+  font-family: var(--font-spartan);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 534px;
+  height: 70px;
+}
+.thmNngTriParent {
+  position: relative;
+  background-color: var(--neutral-colors-white);
+  width: 534px;
+  height: 401px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+}

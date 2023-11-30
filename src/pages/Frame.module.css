@@ -8,7 +8,12 @@
 }
 .groupItem {
   position: absolute;
+<<<<<<< HEAD
   top: 0px;
+=======
+  top: 124px;
+
+>>>>>>> Incoming
   left: 0px;
   background-color: var(--neutral-colors-white);
   width: 1440px;
@@ -32,40 +37,152 @@
   position: absolute;
   top: 120px;
   left: 1px;
+<<<<<<< HEAD
   width: 1444px;
+=======
+  width: 1439px;
+
+>>>>>>> Incoming
   height: 7px;
   object-fit: cover;
 }
 .tngQuanNng1 {
+<<<<<<< HEAD
+=======
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+
+>>>>>>> Incoming
   position: absolute;
+<<<<<<< HEAD
   top: 247px;
   left: 11px;
+=======
+  top: 259px;
+  left: 1px;
+  font-size: var(--font-size-8xl);
+
+>>>>>>> Incoming
   line-height: 177%;
+<<<<<<< HEAD
   cursor: pointer;
+=======
+  font-family: var(--font-spartan);
+  color: var(--neutral-colors-white);
+  text-align: left;
+  display: inline-block;
+  width: 303px;
+  height: 60px;
+
+>>>>>>> Incoming
 }
 .nngSutD1 {
+<<<<<<< HEAD
+=======
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+
+>>>>>>> Incoming
   position: absolute;
+<<<<<<< HEAD
   top: 400px;
   left: 14px;
+=======
+  top: 483px;
+  left: 1px;
+  font-size: var(--font-size-8xl);
+
+>>>>>>> Incoming
   line-height: 177%;
-  cursor: pointer;
-}
-.thngK {
-  position: absolute;
-  top: 325px;
-  left: 69px;
-  line-height: 177%;
+<<<<<<< HEAD
+=======
+  font-family: var(--font-spartan);
+  color: var(--neutral-colors-white);
+  text-align: left;
   display: inline-block;
   width: 304px;
+  height: 60px;
+}
+.thngK1 {
+
+>>>>>>> Incoming
+  cursor: pointer;
+<<<<<<< HEAD
+}
+.thngK {
+=======
+  border: none;
+  padding: 0;
+  background-color: transparent;
+
+>>>>>>> Incoming
+  position: absolute;
+<<<<<<< HEAD
+  top: 325px;
+  left: 69px;
+=======
+  top: 371px;
+  left: 1px;
+  font-size: var(--font-size-8xl);
+
+>>>>>>> Incoming
+  line-height: 177%;
+<<<<<<< HEAD
+=======
+  font-family: var(--font-spartan);
+  color: var(--neutral-colors-white);
+  text-align: left;
+
+>>>>>>> Incoming
+  display: inline-block;
+<<<<<<< HEAD
+  width: 304px;
   height: 52px;
+=======
+  width: 303px;
+  height: 60px;
+
+>>>>>>> Incoming
 }
 .giNng1 {
+<<<<<<< HEAD
+=======
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+
+>>>>>>> Incoming
   position: absolute;
+<<<<<<< HEAD
   top: 487px;
   left: 42px;
+=======
+  top: 595px;
+  left: 2px;
+  font-size: var(--font-size-8xl);
+
+>>>>>>> Incoming
   line-height: 177%;
+<<<<<<< HEAD
+=======
+  font-family: var(--font-spartan);
+  color: var(--neutral-colors-white);
+  text-align: left;
+
+>>>>>>> Incoming
   display: inline-block;
+<<<<<<< HEAD
   width: 221px;
+=======
+  width: 303px;
+  height: 60px;
+
+>>>>>>> Incoming
 }
 .rectangleDiv {
   position: absolute;
@@ -77,22 +194,43 @@
 }
 .rectangleIcon {
   position: absolute;
+<<<<<<< HEAD
   top: 314px;
   left: 46px;
+=======
+  top: 323px;
+  left: 3px;
+
+>>>>>>> Incoming
   border-radius: var(--br-mini);
+<<<<<<< HEAD
   width: 207.5px;
+=======
+  width: 301px;
+
+>>>>>>> Incoming
   height: 61px;
   object-fit: cover;
   mix-blend-mode: lighten;
 }
+<<<<<<< HEAD
 .alignJustifyIcon {
+=======
+.alignJustify1 {
+
+>>>>>>> Incoming
   position: absolute;
   top: 60px;
   left: 1351px;
   width: 53px;
   height: 48px;
   overflow: hidden;
+<<<<<<< HEAD
   object-fit: cover;
+=======
+  cursor: pointer;
+
+>>>>>>> Incoming
 }
 .nngTri11 {
   position: absolute;
@@ -103,6 +241,17 @@
   color: var(--color-green);
   -webkit-text-stroke: 1px #008000;
 }
+<<<<<<< HEAD
+=======
+.rectangleParent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1445px;
+  height: 1023px;
+}
+
+>>>>>>> Incoming
 .container4 {
   position: absolute;
   top: 0px;
@@ -231,14 +380,29 @@
   width: 444.5px;
   height: 1px;
 }
+<<<<<<< HEAD
 .growthIndicatorIcon2 {
+=======
+.arrowIcon2 {
+
+>>>>>>> Incoming
   position: absolute;
+<<<<<<< HEAD
   height: 36.67%;
   width: 13.51%;
   top: 56.11%;
   right: 0%;
   bottom: 7.22%;
   left: 86.49%;
+=======
+  height: 22.78%;
+  width: 8.7%;
+  top: 65.28%;
+  right: 2.65%;
+  bottom: 11.94%;
+  left: 88.64%;
+
+>>>>>>> Incoming
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
@@ -257,7 +421,12 @@
   position: absolute;
   top: 12px;
   left: 40px;
+<<<<<<< HEAD
   width: 97.7px;
+=======
+  width: 94.2px;
+
+>>>>>>> Incoming
   height: 36px;
 }
 .chart2 {
@@ -276,7 +445,12 @@
   top: 0px;
   left: 0px;
   width: 1445px;
+<<<<<<< HEAD
   height: 1021px;
+=======
+  height: 1023px;
+
+>>>>>>> Incoming
   color: var(--neutral-colors-white);
   font-family: var(--font-spartan);
 }
@@ -300,12 +474,22 @@
   position: absolute;
   top: 31.9px;
   left: 45px;
+<<<<<<< HEAD
   width: 84px;
   height: 24px;
+=======
+  line-height: 24px;
+
+>>>>>>> Incoming
 }
 .chart6 {
   position: absolute;
+<<<<<<< HEAD
   top: 688.1px;
+=======
+  top: 679.1px;
+
+>>>>>>> Incoming
   left: 1036px;
   width: 332px;
   height: 225.2px;
@@ -321,33 +505,68 @@
   position: absolute;
   top: 86.9px;
   left: 131.1px;
+<<<<<<< HEAD
   width: 63px;
   height: 52px;
+=======
+  line-height: 52px;
+
+>>>>>>> Incoming
 }
+<<<<<<< HEAD
 .cardInfo1 {
+=======
+.cardTitle1 {
+
+>>>>>>> Incoming
   position: absolute;
   top: 27.9px;
   left: 30.1px;
   width: 87px;
   height: 24px;
   font-size: var(--headings-h5-size);
+<<<<<<< HEAD
+=======
+  line-height: 24px;
+
+>>>>>>> Incoming
 }
 .chart5 {
   position: absolute;
+<<<<<<< HEAD
   top: 688.1px;
+=======
+  top: 679.1px;
+
+>>>>>>> Incoming
   left: 679.9px;
   width: 332px;
   height: 225.2px;
   font-size: var(--special-headings-display-3-size);
 }
+<<<<<<< HEAD
 .growthIndicatorIcon3 {
+=======
+.arrowIcon3 {
+
+>>>>>>> Incoming
   position: absolute;
+<<<<<<< HEAD
   height: 33.85%;
   width: 9.3%;
   top: 52.05%;
   right: 5.85%;
   bottom: 14.1%;
   left: 84.86%;
+=======
+  height: 21.03%;
+  width: 5.77%;
+  top: 60.51%;
+  right: 8.66%;
+  bottom: 18.46%;
+  left: 85.56%;
+
+>>>>>>> Incoming
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
@@ -362,7 +581,12 @@
   color: var(--neutral-colors-black);
   text-align: left;
 }
+<<<<<<< HEAD
 .growthInfo2 {
+=======
+.growthInfo1 {
+
+>>>>>>> Incoming
   position: absolute;
   top: 11.9px;
   left: 4px;
@@ -371,7 +595,12 @@
 }
 .chart21 {
   position: absolute;
+<<<<<<< HEAD
   top: 254.1px;
+=======
+  top: 245.1px;
+
+>>>>>>> Incoming
   left: 324px;
   width: 510px;
   height: 410px;
@@ -381,12 +610,37 @@
 }
 .back {
   position: relative;
+<<<<<<< HEAD
+=======
+  font-size: 18.06px;
+
+>>>>>>> Incoming
   font-weight: 500;
+<<<<<<< HEAD
+=======
+  font-family: var(--font-lato);
+  color: var(--color-darkslategray-200);
+  text-align: left;
+
+>>>>>>> Incoming
   cursor: pointer;
 }
 .backWrapper {
+<<<<<<< HEAD
+=======
+  cursor: pointer;
+  border: 1px solid var(--color-darkslategray-200);
+  padding: 13.046907424926758px 25.090206146240234px;
+  background-color: transparent;
+
+>>>>>>> Incoming
   position: absolute;
+<<<<<<< HEAD
   top: 36px;
+=======
+  top: 27px;
+
+>>>>>>> Incoming
   left: 42px;
   border-radius: var(--br-mini);
   border: 1px solid var(--color-darkslategray-200);
@@ -404,19 +658,39 @@
 }
 .groupDiv {
   position: absolute;
+<<<<<<< HEAD
   top: 0px;
+=======
+  top: 9px;
+
+>>>>>>> Incoming
   left: 0px;
   width: 1445px;
+<<<<<<< HEAD
   height: 1021px;
+=======
+  height: 1023px;
+
+>>>>>>> Incoming
 }
 .groupParent {
   position: relative;
   background-color: var(--neutral-colors-white);
   width: 100%;
+<<<<<<< HEAD
   height: 1021px;
+=======
+  height: 1024px;
+
+>>>>>>> Incoming
   overflow: hidden;
   text-align: left;
+<<<<<<< HEAD
   font-size: var(--font-size-8xl);
+=======
+  font-size: var(--font-size-13xl);
+
+>>>>>>> Incoming
   color: var(--neutral-colors-black);
   font-family: var(--text-single-300-bold);
 }

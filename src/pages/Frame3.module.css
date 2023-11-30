@@ -1,7 +1,12 @@
 .groupChild {
   position: absolute;
   top: 0px;
+<<<<<<< HEAD
   left: 279px;
+=======
+  left: 783.5px;
+
+>>>>>>> Incoming
   background-color: var(--neutral-colors-white);
   width: 1440px;
   height: 159px;
@@ -9,37 +14,86 @@
 .groupItem {
   position: absolute;
   top: 0px;
+<<<<<<< HEAD
   left: 0px;
+=======
+  left: 780.5px;
+
+>>>>>>> Incoming
   background-color: var(--neutral-colors-white);
   width: 1440px;
   height: 897px;
 }
+<<<<<<< HEAD
 .rectangleWrapper {
+=======
+.groupInner {
+
+>>>>>>> Incoming
   position: absolute;
+<<<<<<< HEAD
+=======
+  top: 85.5px;
+  left: 782px;
+  width: 3090.5px;
+  height: 750.5px;
+  object-fit: cover;
+}
+.rectangleGroup {
+  position: absolute;
+
+>>>>>>> Incoming
   top: 124px;
+<<<<<<< HEAD
   left: 276px;
   width: 1440px;
+=======
+  left: 0px;
+  width: 3090.5px;
+
+>>>>>>> Incoming
   height: 897px;
 }
 .text2 {
   position: absolute;
   top: 412px;
+<<<<<<< HEAD
   left: 1398px;
+=======
+  left: 1902.5px;
+
+>>>>>>> Incoming
   line-height: 177%;
   color: var(--neutral-colors-white);
 }
+<<<<<<< HEAD
 .groupInner {
+=======
+.lineIcon {
+
+>>>>>>> Incoming
   position: absolute;
   top: 120px;
+<<<<<<< HEAD
   left: 278px;
   width: 1443px;
+=======
+  left: 782px;
+  width: 1440px;
+
+>>>>>>> Incoming
   height: 7px;
   object-fit: cover;
 }
 .thngTinChung1 {
   position: absolute;
   top: 241px;
+<<<<<<< HEAD
   left: 325px;
+=======
+  left: 829.5px;
+
+>>>>>>> Incoming
   font-size: var(--font-size-8xl);
   line-height: 177%;
   color: var(--neutral-colors-white);
@@ -47,7 +101,12 @@
 .rectangleIcon {
   position: absolute;
   top: 129px;
+<<<<<<< HEAD
   left: 580px;
+=======
+  left: 1084.5px;
+
+>>>>>>> Incoming
   width: 1136px;
   height: 893px;
   object-fit: cover;
@@ -55,7 +114,12 @@
 .groupChild1 {
   position: absolute;
   top: 116.5px;
+<<<<<<< HEAD
   left: -278px;
+=======
+  left: -277.5px;
+
+>>>>>>> Incoming
   border-radius: var(--br-mini);
   width: 210px;
   height: 61px;
@@ -65,14 +129,24 @@
 .farmProjects {
   position: absolute;
   top: 159px;
+<<<<<<< HEAD
   left: 603px;
+=======
+  left: 1107.5px;
+
+>>>>>>> Incoming
   line-height: 177%;
   color: var(--color-black);
 }
 .rectangleDiv {
   position: absolute;
   top: 1057px;
+<<<<<<< HEAD
   left: 1155px;
+=======
+  left: 1659.5px;
+
+>>>>>>> Incoming
   border-radius: var(--br-3xs) var(--br-3xs) 0px 0px;
   width: 220px;
   height: 326px;
@@ -97,17 +171,32 @@
   width: 516px;
   height: 356px;
 }
+<<<<<<< HEAD
 .rectangleContainer {
+=======
+.rectangleWrapper {
+
+>>>>>>> Incoming
   position: absolute;
   top: 268px;
+<<<<<<< HEAD
   left: 1164px;
+=======
+  left: 1668.5px;
+
+>>>>>>> Incoming
   width: 516px;
   height: 356px;
 }
 .viewFullDetails1 {
   position: absolute;
   top: 566.1px;
+<<<<<<< HEAD
   left: 1442.2px;
+=======
+  left: 1946.7px;
+
+>>>>>>> Incoming
   font-size: var(--font-size-mid-5);
   text-decoration: underline;
   line-height: 177%;
@@ -118,7 +207,12 @@
 .nngTri21 {
   position: absolute;
   top: 292px;
+<<<<<<< HEAD
   left: 1425.6px;
+=======
+  left: 1930.1px;
+
+>>>>>>> Incoming
   font-size: var(--font-size-xl);
   line-height: 177%;
   display: inline-block;
@@ -135,7 +229,12 @@
 .aaaa {
   position: absolute;
   top: 359px;
+<<<<<<< HEAD
   left: 1417px;
+=======
+  left: 1921.5px;
+
+>>>>>>> Incoming
   font-size: var(--font-inherit);
   line-height: 177%;
   font-family: var(--font-inherit);
@@ -149,7 +248,12 @@
 .text3 {
   position: absolute;
   top: 311.7px;
+<<<<<<< HEAD
   left: 1419.4px;
+=======
+  left: 1923.9px;
+
+>>>>>>> Incoming
   font-size: var(--font-size-mid-5);
   line-height: 177%;
   display: inline-block;
@@ -159,31 +263,57 @@
 .groupChild4 {
   position: absolute;
   top: 268px;
+<<<<<<< HEAD
   left: 1164px;
+=======
+  left: 1668.5px;
+
+>>>>>>> Incoming
   border-radius: var(--br-mini) 0px 0px var(--br-mini);
   width: 243px;
   height: 356px;
   object-fit: cover;
 }
+<<<<<<< HEAD
 .groupDiv {
+=======
+.groupFrame {
+
+>>>>>>> Incoming
   position: absolute;
   top: 0px;
   left: 0px;
+<<<<<<< HEAD
   width: 1721px;
+=======
+  width: 3090.5px;
+
+>>>>>>> Incoming
   height: 1383px;
 }
 .groupWrapper {
   position: absolute;
   top: 0px;
+<<<<<<< HEAD
   left: -278px;
   width: 1721px;
+=======
+  left: -782px;
+  width: 3090.5px;
+
+>>>>>>> Incoming
   height: 1383px;
 }
 .groupParent {
   position: relative;
   background-color: var(--neutral-colors-white);
   width: 100%;
+<<<<<<< HEAD
   height: 1027px;
+=======
+  height: 1024px;
+
+>>>>>>> Incoming
   overflow: hidden;
   text-align: left;
   font-size: var(--font-size-13xl);

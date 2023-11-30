@@ -38,7 +38,12 @@ const SideBar = ({
     sideBarBorderRadius,
   ]);
 
+<<<<<<< HEAD
   const rectangleDiv2Style = useMemo(() => {
+=======
+  const rectangleDivStyle = useMemo(() => {
+
+>>>>>>> Incoming
     return {
       backgroundColor: rectangleDivBackgroundColor,
     };
@@ -86,7 +91,12 @@ const SideBar = ({
           />
         </div>
       )}
+<<<<<<< HEAD
       <div className={styles.sideBarChild} style={rectangleDiv2Style} />
+=======
+      <div className={styles.sideBarChild} style={rectangleDivStyle} />
+
+>>>>>>> Incoming
       {showRectangleDiv && <div className={styles.sideBarItem} />}
       {rectangleDivVisible && <div className={styles.sideBarInner} />}
       {rectangleDivVisible1 && <div className={styles.rectangleDiv} />}

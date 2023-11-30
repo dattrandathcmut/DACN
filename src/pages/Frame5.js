@@ -7,7 +7,12 @@ const Frame5 = () => {
   const navigate = useNavigate();
 
   const onBackTextClick = useCallback(() => {
+<<<<<<< HEAD
     navigate("/");
+=======
+    navigate("/desktop-22");
+
+>>>>>>> Incoming
   }, [navigate]);
 
   return (
@@ -15,11 +20,21 @@ const Frame5 = () => {
       <img className={styles.images2Icon} alt="" src="/images-1@2x.png" />
       <WelcomeContainer />
       <img className={styles.frameChild} alt="" src="/rectangle-209.png" />
+<<<<<<< HEAD
       <div className={styles.backWrapper}>
+=======
+      <button className={styles.backWrapper}>
+
+>>>>>>> Incoming
         <div className={styles.back} onClick={onBackTextClick}>
           Back
         </div>
+<<<<<<< HEAD
       </div>
+=======
+      </button>
+
+>>>>>>> Incoming
       <div className={styles.instanceParent}>
         <GroupComponent
           firstName="First name"

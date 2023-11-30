@@ -32,40 +32,152 @@
   position: absolute;
   top: 120px;
   left: 1px;
+<<<<<<< HEAD
   width: 1444px;
+=======
+  width: 1439px;
+
+>>>>>>> Incoming
   height: 7px;
   object-fit: cover;
 }
 .tngQuanNng1 {
+<<<<<<< HEAD
+=======
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+
+>>>>>>> Incoming
   position: absolute;
+<<<<<<< HEAD
   top: 247px;
   left: 11px;
+=======
+  top: 257px;
+  left: 0px;
+  font-size: var(--font-size-8xl);
+
+>>>>>>> Incoming
   line-height: 177%;
+<<<<<<< HEAD
   cursor: pointer;
+=======
+  font-family: var(--font-spartan);
+  color: var(--neutral-colors-white);
+  text-align: left;
+  display: inline-block;
+  width: 303px;
+  height: 60px;
+
+>>>>>>> Incoming
 }
 .nngSutD2 {
+<<<<<<< HEAD
+=======
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+
+>>>>>>> Incoming
   position: absolute;
+<<<<<<< HEAD
   top: 400px;
   left: 14px;
+=======
+  top: 481px;
+  left: 0px;
+  font-size: var(--font-size-8xl);
+
+>>>>>>> Incoming
   line-height: 177%;
+<<<<<<< HEAD
+=======
+  font-family: var(--font-spartan);
+  color: var(--neutral-colors-white);
+  text-align: left;
+  display: inline-block;
+  width: 304px;
+  height: 60px;
+
+>>>>>>> Incoming
 }
+<<<<<<< HEAD
 .thngK {
+=======
+.thngK1 {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+
+>>>>>>> Incoming
   position: absolute;
+<<<<<<< HEAD
   top: 325px;
   left: 69px;
+=======
+  top: 369px;
+  left: 1px;
+  font-size: var(--font-size-8xl);
+
+>>>>>>> Incoming
   line-height: 177%;
+<<<<<<< HEAD
+=======
+  font-family: var(--font-spartan);
+  color: var(--neutral-colors-white);
+  text-align: left;
+
+>>>>>>> Incoming
   display: inline-block;
+<<<<<<< HEAD
   width: 304px;
   height: 52px;
   cursor: pointer;
+=======
+  width: 303px;
+  height: 60px;
+
+>>>>>>> Incoming
 }
 .giNng1 {
+<<<<<<< HEAD
+=======
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+
+>>>>>>> Incoming
   position: absolute;
+<<<<<<< HEAD
   top: 487px;
   left: 42px;
+=======
+  top: 593px;
+  left: 1px;
+  font-size: var(--font-size-8xl);
+
+>>>>>>> Incoming
   line-height: 177%;
+<<<<<<< HEAD
+=======
+  font-family: var(--font-spartan);
+  color: var(--neutral-colors-white);
+  text-align: left;
+
+>>>>>>> Incoming
   display: inline-block;
+<<<<<<< HEAD
   width: 221px;
+=======
+  width: 302px;
+  height: 60px;
+
+>>>>>>> Incoming
 }
 .rectangleDiv {
   position: absolute;
@@ -78,9 +190,19 @@
 .rectangleIcon {
   position: absolute;
   top: 394px;
+<<<<<<< HEAD
   left: 13px;
+=======
+  left: 0.5px;
+
+>>>>>>> Incoming
   border-radius: var(--br-mini);
+<<<<<<< HEAD
   width: 266.5px;
+=======
+  width: 302.5px;
+
+>>>>>>> Incoming
   height: 61px;
   object-fit: cover;
   mix-blend-mode: lighten;
@@ -93,6 +215,11 @@
   height: 48px;
   overflow: hidden;
   object-fit: cover;
+<<<<<<< HEAD
+=======
+  cursor: pointer;
+
+>>>>>>> Incoming
 }
 .nngTri11 {
   position: absolute;
@@ -109,15 +236,40 @@
   left: 0px;
   width: 1445px;
   height: 1021px;
+<<<<<<< HEAD
   font-size: var(--font-size-8xl);
+=======
+  font-size: var(--font-size-13xl);
+
+>>>>>>> Incoming
   color: var(--neutral-colors-white);
 }
 .back {
   position: relative;
+<<<<<<< HEAD
+=======
+  font-size: 18.06px;
+
+>>>>>>> Incoming
   font-weight: 500;
+<<<<<<< HEAD
+=======
+  font-family: var(--font-lato);
+  color: var(--color-darkslategray-200);
+  text-align: left;
+
+>>>>>>> Incoming
   cursor: pointer;
 }
 .backWrapper {
+<<<<<<< HEAD
+=======
+  cursor: pointer;
+  border: 1px solid var(--color-darkslategray-200);
+  padding: 13.046907424926758px 25.090206146240234px;
+  background-color: transparent;
+
+>>>>>>> Incoming
   position: absolute;
   top: 36px;
   left: 52px;
@@ -255,6 +407,14 @@
   object-fit: cover;
 }
 .groupChild3 {
+<<<<<<< HEAD
+=======
+  cursor: pointer;
+  border: 3px solid var(--color-darkslategray-100);
+  padding: 0;
+  background-color: rgba(119, 147, 65, 0.3);
+
+>>>>>>> Incoming
   position: absolute;
   top: 0px;
   left: 0px;
@@ -282,6 +442,11 @@
   width: 366px;
   height: 77px;
   font-size: var(--font-size-16xl);
+<<<<<<< HEAD
+=======
+  color: var(--color-darkslategray-200);
+
+>>>>>>> Incoming
   font-family: var(--font-actor);
 }
 .chevronsRight1 {
@@ -311,10 +476,20 @@
   position: relative;
   background-color: var(--neutral-colors-white);
   width: 100%;
+<<<<<<< HEAD
   height: 1021px;
+=======
+  height: 1024px;
+
+>>>>>>> Incoming
   overflow: hidden;
   text-align: left;
   font-size: var(--font-size-xl);
+<<<<<<< HEAD
   color: var(--color-darkslategray-200);
+=======
+  color: var(--color-darkslategray-100);
+
+>>>>>>> Incoming
   font-family: var(--font-spartan);
 }

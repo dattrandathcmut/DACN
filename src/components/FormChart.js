@@ -5,16 +5,26 @@ const FormChart = () => {
       <div className={styles.container1} />
       <div className={styles.growthInfo}>
         <div className={styles.growthPercentage}>
+<<<<<<< HEAD
           <img className={styles.arrowIcon1} alt="" src="/arrow.png" />
+=======
+          <img className={styles.arrowIcon1} alt="" src="/undefined1.png" />
+
+>>>>>>> Incoming
           <div className={styles.number}>+21.01%</div>
         </div>
         <b className={styles.amount}>71,01%</b>
       </div>
+<<<<<<< HEAD
       <div className={styles.cardInfo}>
         <div className={styles.cardInfo1}>
           <b className={styles.cardTitle}>Độ ẩm đất</b>
         </div>
       </div>
+=======
+      <b className={styles.cardTitle}>Độ ẩm đất</b>
+
+>>>>>>> Incoming
     </div>
   );
 };
