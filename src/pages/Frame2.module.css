@@ -1,12 +1,8 @@
 .groupChild {
   position: absolute;
   top: 0px;
-<<<<<<< HEAD
-  left: 3px;
-=======
   left: 7px;
 
->>>>>>> Incoming
   background-color: var(--neutral-colors-white);
   width: 1440px;
   height: 159px;
@@ -22,24 +18,16 @@
 .rectangleWrapper {
   position: absolute;
   top: 124px;
-<<<<<<< HEAD
-  left: 0px;
-=======
   left: 4px;
 
->>>>>>> Incoming
   width: 1440px;
   height: 897px;
 }
 .text12 {
   position: absolute;
   top: 412px;
-<<<<<<< HEAD
-  left: 1122px;
-=======
   left: 1126px;
 
->>>>>>> Incoming
   font-size: var(--font-size-13xl);
   line-height: 177%;
   color: var(--neutral-colors-white);
@@ -47,80 +35,48 @@
 .groupInner {
   position: absolute;
   top: 120px;
-<<<<<<< HEAD
-  left: 1px;
-  width: 1444px;
-=======
   left: 5px;
   width: 1439px;
 
->>>>>>> Incoming
   height: 7px;
   object-fit: cover;
 }
 .tngQuanNng1 {
-<<<<<<< HEAD
-=======
   cursor: pointer;
   border: none;
   padding: 0;
   background-color: transparent;
 
->>>>>>> Incoming
   position: absolute;
-<<<<<<< HEAD
-  top: 247px;
-  left: 11px;
-=======
   top: 259px;
   left: 4px;
 
->>>>>>> Incoming
   font-size: var(--font-size-8xl);
   line-height: 177%;
-<<<<<<< HEAD
-=======
   font-family: var(--font-spartan);
 
->>>>>>> Incoming
   color: var(--neutral-colors-white);
-<<<<<<< HEAD
-=======
   text-align: left;
   display: inline-block;
   width: 299px;
   height: 60px;
 
->>>>>>> Incoming
 }
 .nngSutD1 {
-<<<<<<< HEAD
-=======
   cursor: pointer;
   border: none;
   padding: 0;
   background-color: transparent;
 
->>>>>>> Incoming
   position: absolute;
-<<<<<<< HEAD
-  top: 400px;
-  left: 14px;
-=======
   top: 483px;
   left: 4px;
 
->>>>>>> Incoming
   font-size: var(--font-size-8xl);
   line-height: 177%;
-<<<<<<< HEAD
-=======
   font-family: var(--font-spartan);
 
->>>>>>> Incoming
   color: var(--neutral-colors-white);
-<<<<<<< HEAD
-=======
   text-align: left;
   display: inline-block;
   width: 299px;
@@ -128,99 +84,54 @@
 }
 .thngK1 {
 
->>>>>>> Incoming
   cursor: pointer;
-<<<<<<< HEAD
-}
-.thngK {
-=======
   border: none;
   padding: 0;
   background-color: transparent;
 
->>>>>>> Incoming
   position: absolute;
-<<<<<<< HEAD
-  top: 325px;
-  left: 69px;
-=======
   top: 371px;
   left: 7px;
 
->>>>>>> Incoming
   font-size: var(--font-size-8xl);
   line-height: 177%;
-<<<<<<< HEAD
-=======
   font-family: var(--font-spartan);
 
->>>>>>> Incoming
   color: var(--neutral-colors-white);
-<<<<<<< HEAD
-=======
   text-align: left;
 
->>>>>>> Incoming
   display: inline-block;
-<<<<<<< HEAD
-  width: 304px;
-  height: 52px;
-  cursor: pointer;
-=======
   width: 296px;
   height: 60px;
 
->>>>>>> Incoming
 }
 .giNng1 {
-<<<<<<< HEAD
-=======
   cursor: pointer;
   border: none;
   padding: 0;
   background-color: transparent;
 
->>>>>>> Incoming
   position: absolute;
-<<<<<<< HEAD
-  top: 487px;
-  left: 42px;
-=======
   top: 595px;
   left: 4px;
 
->>>>>>> Incoming
   font-size: var(--font-size-8xl);
   line-height: 177%;
-<<<<<<< HEAD
-=======
   font-family: var(--font-spartan);
 
->>>>>>> Incoming
   color: var(--neutral-colors-white);
-<<<<<<< HEAD
-=======
   text-align: left;
 
->>>>>>> Incoming
   display: inline-block;
-<<<<<<< HEAD
-  width: 221px;
-=======
   width: 299px;
   height: 60px;
 
->>>>>>> Incoming
 }
 .rectangleDiv {
   position: absolute;
   top: 128px;
-<<<<<<< HEAD
-  left: 307px;
-=======
   left: 311px;
 
->>>>>>> Incoming
   background-color: var(--color-mintcream);
   width: 1133px;
   height: 893px;
@@ -235,15 +146,9 @@
   object-fit: cover;
   mix-blend-mode: lighten;
 }
-<<<<<<< HEAD
-.alignJustifyIcon {
-=======
 .vectorIcon4 {
 
->>>>>>> Incoming
   position: absolute;
-<<<<<<< HEAD
-=======
   height: 4.17%;
   width: 78.87%;
   top: 39.58%;
@@ -307,33 +212,20 @@
 .alignJustify {
   position: absolute;
 
->>>>>>> Incoming
   top: 60px;
-<<<<<<< HEAD
-  left: 1351px;
-=======
   left: 1355px;
 
->>>>>>> Incoming
   width: 53px;
   height: 48px;
   overflow: hidden;
-<<<<<<< HEAD
-  object-fit: cover;
-=======
   cursor: pointer;
 
->>>>>>> Incoming
 }
 .nngTri11 {
   position: absolute;
   top: 159px;
-<<<<<<< HEAD
-  left: 324px;
-=======
   left: 328px;
 
->>>>>>> Incoming
   font-size: var(--font-size-13xl);
   line-height: 177%;
   color: var(--color-green);
@@ -345,24 +237,16 @@
 .text13 {
   position: absolute;
   top: 249px;
-<<<<<<< HEAD
-  left: 557px;
-=======
   left: 561px;
 
->>>>>>> Incoming
   line-height: 177%;
   color: var(--color-darkslategray-100);
 }
 .groupChild1 {
   position: absolute;
   top: 244px;
-<<<<<<< HEAD
-  left: 313px;
-=======
   left: 317px;
 
->>>>>>> Incoming
   border-radius: var(--br-11xl);
   background-color: var(--neutral-colors-white);
   border: 3px solid var(--color-darkslategray-300);
@@ -373,12 +257,8 @@
 .im1 {
   position: absolute;
   top: 263px;
-<<<<<<< HEAD
-  left: 342px;
-=======
   left: 346px;
 
->>>>>>> Incoming
   font-size: var(--font-size-11xl);
   line-height: 177%;
   display: inline-block;
@@ -388,12 +268,8 @@
 .nhit {
   position: absolute;
   top: 323px;
-<<<<<<< HEAD
-  left: 340px;
-=======
   left: 344px;
 
->>>>>>> Incoming
   font-size: var(--font-size-5xl);
   line-height: 177%;
   display: inline-block;
@@ -403,12 +279,8 @@
 .mKhngKh6 {
   position: absolute;
   top: 323px;
-<<<<<<< HEAD
-  left: 535px;
-=======
   left: 539px;
 
->>>>>>> Incoming
   font-size: var(--font-size-5xl);
   line-height: 177%;
   display: inline-block;
@@ -418,12 +290,8 @@
 .f {
   position: absolute;
   top: 399px;
-<<<<<<< HEAD
-  left: 376px;
-=======
   left: 380px;
 
->>>>>>> Incoming
   line-height: 177%;
   display: inline-block;
   width: 213px;
@@ -432,12 +300,8 @@
 .lineDiv {
   position: absolute;
   top: 380.5px;
-<<<<<<< HEAD
-  left: 312.5px;
-=======
   left: 316.5px;
 
->>>>>>> Incoming
   border-top: 1px solid var(--color-gray-500);
   box-sizing: border-box;
   width: 1098px;
@@ -446,12 +310,8 @@
 .mT {
   position: absolute;
   top: 327px;
-<<<<<<< HEAD
-  left: 889px;
-=======
   left: 893px;
 
->>>>>>> Incoming
   font-size: var(--font-size-5xl);
   line-height: 177%;
   display: inline-block;
@@ -461,12 +321,8 @@
 .b {
   position: absolute;
   top: 390px;
-<<<<<<< HEAD
-  left: 618px;
-=======
   left: 622px;
 
->>>>>>> Incoming
   line-height: 177%;
   display: inline-block;
   width: 105px;
@@ -475,12 +331,8 @@
 .b1 {
   position: absolute;
   top: 399px;
-<<<<<<< HEAD
-  left: 922px;
-=======
   left: 926px;
 
->>>>>>> Incoming
   line-height: 177%;
   display: inline-block;
   width: 105px;
@@ -489,36 +341,24 @@
 .text14 {
   position: absolute;
   top: 739px;
-<<<<<<< HEAD
-  left: 1118px;
-=======
   left: 1122px;
 
->>>>>>> Incoming
   line-height: 177%;
   color: var(--color-darkslategray-100);
 }
 .text15 {
   position: absolute;
   top: 738px;
-<<<<<<< HEAD
-  left: 557px;
-=======
   left: 561px;
 
->>>>>>> Incoming
   line-height: 177%;
   color: var(--color-darkslategray-100);
 }
 .groupChild4 {
   position: absolute;
   top: 733px;
-<<<<<<< HEAD
-  left: 313px;
-=======
   left: 317px;
 
->>>>>>> Incoming
   border-radius: var(--br-11xl);
   background-color: var(--neutral-colors-white);
   border: 3px solid var(--color-darkslategray-300);
@@ -529,12 +369,8 @@
 .im3 {
   position: absolute;
   top: 752px;
-<<<<<<< HEAD
-  left: 342px;
-=======
   left: 346px;
 
->>>>>>> Incoming
   font-size: var(--font-size-11xl);
   line-height: 177%;
   display: inline-block;
@@ -544,12 +380,8 @@
 .nhit2 {
   position: absolute;
   top: 812px;
-<<<<<<< HEAD
-  left: 340px;
-=======
   left: 344px;
 
->>>>>>> Incoming
   font-size: var(--font-size-5xl);
   line-height: 177%;
   display: inline-block;
@@ -559,12 +391,8 @@
 .mKhngKh8 {
   position: absolute;
   top: 812px;
-<<<<<<< HEAD
-  left: 535px;
-=======
   left: 539px;
 
->>>>>>> Incoming
   font-size: var(--font-size-5xl);
   line-height: 177%;
   display: inline-block;
@@ -574,12 +402,8 @@
 .f2 {
   position: absolute;
   top: 888px;
-<<<<<<< HEAD
-  left: 376px;
-=======
   left: 380px;
 
->>>>>>> Incoming
   line-height: 177%;
   display: inline-block;
   width: 213px;
@@ -588,12 +412,8 @@
 .groupChild5 {
   position: absolute;
   top: 869.5px;
-<<<<<<< HEAD
-  left: 312.5px;
-=======
   left: 316.5px;
 
->>>>>>> Incoming
   border-top: 1px solid var(--color-gray-500);
   box-sizing: border-box;
   width: 1098px;
@@ -602,12 +422,8 @@
 .mT1 {
   position: absolute;
   top: 816px;
-<<<<<<< HEAD
-  left: 889px;
-=======
   left: 893px;
 
->>>>>>> Incoming
   font-size: var(--font-size-5xl);
   line-height: 177%;
   display: inline-block;
@@ -617,12 +433,8 @@
 .nhSng {
   position: absolute;
   top: 816px;
-<<<<<<< HEAD
-  left: 1206px;
-=======
   left: 1210px;
 
->>>>>>> Incoming
   font-size: var(--font-size-5xl);
   line-height: 177%;
   display: inline-block;
@@ -632,12 +444,8 @@
 .b2 {
   position: absolute;
   top: 879px;
-<<<<<<< HEAD
-  left: 618px;
-=======
   left: 622px;
 
->>>>>>> Incoming
   line-height: 177%;
   display: inline-block;
   width: 105px;
@@ -646,12 +454,8 @@
 .b3 {
   position: absolute;
   top: 888px;
-<<<<<<< HEAD
-  left: 922px;
-=======
   left: 926px;
 
->>>>>>> Incoming
   line-height: 177%;
   display: inline-block;
   width: 105px;
@@ -661,62 +465,40 @@
   position: absolute;
   top: 0px;
   left: 0px;
-<<<<<<< HEAD
-  width: 1445px;
-  height: 1021px;
-=======
   width: 1449px;
   height: 1023px;
 
->>>>>>> Incoming
   color: var(--color-darkslategray-200);
 }
 .text16 {
   position: absolute;
   top: 493px;
-<<<<<<< HEAD
-  left: 1118px;
-=======
   left: 1122px;
 
->>>>>>> Incoming
   line-height: 177%;
 }
 .text17 {
   position: absolute;
   top: 492px;
-<<<<<<< HEAD
-  left: 557px;
-=======
   left: 561px;
 
->>>>>>> Incoming
   line-height: 177%;
 }
 .groupParent2 {
   position: absolute;
   top: 0px;
   left: 0px;
-<<<<<<< HEAD
-  width: 1445px;
-  height: 1021px;
-=======
   width: 1449px;
   height: 1023px;
 
->>>>>>> Incoming
   font-size: var(--font-size-xl);
   color: var(--color-darkslategray-100);
 }
 .groupChild7 {
   position: absolute;
   top: 487px;
-<<<<<<< HEAD
-  left: 313px;
-=======
   left: 317px;
 
->>>>>>> Incoming
   border-radius: var(--br-11xl);
   background-color: var(--neutral-colors-white);
   border: 3px solid var(--color-darkslategray-300);
@@ -727,12 +509,8 @@
 .im2 {
   position: absolute;
   top: 506px;
-<<<<<<< HEAD
-  left: 342px;
-=======
   left: 346px;
 
->>>>>>> Incoming
   font-size: var(--font-size-11xl);
   line-height: 177%;
   display: inline-block;
@@ -742,12 +520,8 @@
 .nhit4 {
   position: absolute;
   top: 566px;
-<<<<<<< HEAD
-  left: 340px;
-=======
   left: 344px;
 
->>>>>>> Incoming
   line-height: 177%;
   display: inline-block;
   width: 178px;
@@ -756,12 +530,8 @@
 .mKhngKh10 {
   position: absolute;
   top: 566px;
-<<<<<<< HEAD
-  left: 535px;
-=======
   left: 539px;
 
->>>>>>> Incoming
   line-height: 177%;
   display: inline-block;
   width: 255px;
@@ -770,12 +540,8 @@
 .f4 {
   position: absolute;
   top: 642px;
-<<<<<<< HEAD
-  left: 376px;
-=======
   left: 380px;
 
->>>>>>> Incoming
   font-size: var(--font-size-xl);
   line-height: 177%;
   display: inline-block;
@@ -785,12 +551,8 @@
 .groupChild8 {
   position: absolute;
   top: 623.5px;
-<<<<<<< HEAD
-  left: 312.5px;
-=======
   left: 316.5px;
 
->>>>>>> Incoming
   border-top: 1px solid var(--color-gray-500);
   box-sizing: border-box;
   width: 1098px;
@@ -799,12 +561,8 @@
 .nhSng1 {
   position: absolute;
   top: 327px;
-<<<<<<< HEAD
-  left: 1206px;
-=======
   left: 1210px;
 
->>>>>>> Incoming
   line-height: 177%;
   display: inline-block;
   width: 179px;
@@ -812,38 +570,25 @@
 }
 .back {
   position: relative;
-<<<<<<< HEAD
-=======
   font-size: 18.06px;
 
->>>>>>> Incoming
   font-weight: 500;
-<<<<<<< HEAD
-=======
   font-family: var(--font-lato);
   color: var(--color-darkslategray-200);
   text-align: left;
 
->>>>>>> Incoming
   cursor: pointer;
 }
 .backWrapper {
-<<<<<<< HEAD
-=======
   cursor: pointer;
   border: 1px solid var(--color-darkslategray-200);
   padding: 13.046907424926758px 25.090206146240234px;
   background-color: transparent;
 
->>>>>>> Incoming
   position: absolute;
   top: 28px;
-<<<<<<< HEAD
-  left: 42px;
-=======
   left: 46px;
 
->>>>>>> Incoming
   border-radius: var(--br-mini);
   border: 1px solid var(--color-darkslategray-200);
   box-sizing: border-box;
@@ -857,8 +602,6 @@
   font-size: 18.06px;
   font-family: var(--font-lato);
 }
-<<<<<<< HEAD
-=======
 .groupParent1 {
   position: absolute;
   top: 0px;
@@ -867,16 +610,11 @@
   height: 1023px;
 }
 
->>>>>>> Incoming
 .mT2 {
   position: absolute;
   top: 570px;
-<<<<<<< HEAD
-  left: 889px;
-=======
   left: 893px;
 
->>>>>>> Incoming
   line-height: 177%;
   display: inline-block;
   width: 138px;
@@ -885,12 +623,8 @@
 .nhSng2 {
   position: absolute;
   top: 570px;
-<<<<<<< HEAD
-  left: 1206px;
-=======
   left: 1210px;
 
->>>>>>> Incoming
   line-height: 177%;
   display: inline-block;
   width: 179px;
@@ -899,12 +633,8 @@
 .b4 {
   position: absolute;
   top: 633px;
-<<<<<<< HEAD
-  left: 618px;
-=======
   left: 622px;
 
->>>>>>> Incoming
   font-size: var(--font-size-xl);
   line-height: 177%;
   display: inline-block;
@@ -914,12 +644,8 @@
 .b5 {
   position: absolute;
   top: 642px;
-<<<<<<< HEAD
-  left: 922px;
-=======
   left: 926px;
 
->>>>>>> Incoming
   font-size: var(--font-size-xl);
   line-height: 177%;
   display: inline-block;
@@ -929,27 +655,17 @@
 .groupDiv {
   position: absolute;
   top: 0px;
-<<<<<<< HEAD
-  left: 0px;
-  width: 1445px;
-  height: 1021px;
-=======
   left: -4px;
   width: 1449px;
   height: 1023px;
 
->>>>>>> Incoming
 }
 .groupParent {
   position: relative;
   background-color: var(--neutral-colors-white);
   width: 100%;
-<<<<<<< HEAD
-  height: 1021px;
-=======
   height: 1024px;
 
->>>>>>> Incoming
   overflow: hidden;
   text-align: left;
   font-size: var(--font-size-5xl);
