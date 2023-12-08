@@ -91,7 +91,7 @@ const Frame2 = () => {
                 <b className={styles.im1}>Điểm 1</b>
                 <b className={styles.nhit}>Nhiệt độ</b>
                 <b className={styles.mKhngKh6}>Độ ẩm không khí</b>
-                <b className={styles.f}>27F</b>
+                <b className={styles.f}>27F</b> 
                 <div className={styles.lineDiv} />
                 <div className={styles.groupChild1} />
                 <b className={styles.im1}>Điểm 1</b>

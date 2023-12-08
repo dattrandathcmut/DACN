@@ -1,6 +1,7 @@
 import UserContainer from "../components/UserContainer";
 import Container from "../components/Container";
 import styles from "./Frame3.module.css";
+
 const Frame3 = () => {
   return (
     <div className={styles.groupParent}>
@@ -44,10 +45,8 @@ const Frame3 = () => {
               <div className={styles.aaaa}>
                 <ul className={styles.tngSThitB3ThiTit}>
                   <li className={styles.tngSThit}>Tổng số thiết bị : 3</li>
-                  <li className={styles.tngSThit}>
-                    Thời tiết hiện tại : mưa nhỏ
-                  </li>
-                  <li className={styles.tngSThit}>Loại cây trồng : dưa leo</li>
+                  <li className={styles.tngSThit}>Thời tiết hiện tại : Nắng nhẹ</li>
+                  <li className={styles.tngSThit}>Loại cây trồng : Cà chua</li>
                 </ul>
               </div>
               <div className={styles.text3}>
