@@ -6,6 +6,7 @@ import { useNavigate } from "react-router-dom";
 import styles from "./Frame2.module.css";
 const Frame2 = () => {
   const [isFrame1Open, setFrame1Open] = useState(false);
+  const [environmentData, setEnvironmentData] = useState([]);
   const navigate = useNavigate();
 
   const onNngSutDClick = useCallback(() => {
@@ -27,7 +28,21 @@ const Frame2 = () => {
   const onBackTextClick = useCallback(() => {
     navigate("/frame-35");
   }, [navigate]);
+  const fetchData = useCallback(async () => {
+    try {
+      // Replace 'YOUR_API_ENDPOINT' with the actual endpoint from which you're fetching data
+      const response = await fetch('YOUR_API_ENDPOINT');
+      const json = await response.json();
+      setEnvironmentData(json.data);
+    } catch (error) {
+      console.error('Error fetching data:', error);
+    }
+  }, []);
 
+  useEffect(() => {
+    fetchData();
+    // Optionally set up polling here if you want real-time updates
+  }, [fetchData]);
   return (
     <>
       <div className={styles.groupParent}>
@@ -91,16 +106,16 @@ const Frame2 = () => {
                 <b className={styles.im1}>Điểm 1</b>
                 <b className={styles.nhit}>Nhiệt độ</b>
                 <b className={styles.mKhngKh6}>Độ ẩm không khí</b>
-                <b className={styles.f}>27F</b> 
+                <b className={styles.f}>27F</b>
                 <div className={styles.lineDiv} />
                 <div className={styles.groupChild1} />
                 <b className={styles.im1}>Điểm 1</b>
                 <b className={styles.nhit}>Nhiệt độ</b>
                 <b className={styles.mKhngKh6}>Độ ẩm không khí</b>
                 <b className={styles.mT}>Độ ẩm đất</b>
-                <b className={styles.f}>27F</b>
-                <b className={styles.b}>70%</b>
-                <b className={styles.b1}>10%</b>
+                <b className={styles.f}></b> {dataPoint.temperature}C
+                <b className={styles.b}></b>{dataPoint.humidity}%
+                <b className={styles.b1}></b>{dataPoint.soilMoisture}%
                 <div className={styles.lineDiv} />
                 <b className={styles.text14}>
                   <p className={styles.blankLine}>&nbsp;</p>
